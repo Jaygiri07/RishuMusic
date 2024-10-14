@@ -28,7 +28,7 @@ ASSUSERNAME = getenv("ASSUSERNAME" , "KHWAAISH_HOON")
 
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-MONGO_DB_URI = getenv("MONGO_DB_URI", None)
+MONGO_DB_URI = getenv("MONGO_DB_URI", mongodb+srv://j32025026:<db_diTBNy6AvTzCpOYi>@cluster0.mmcgi.mongodb.net/?retryWrites=true&w=majority)
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 
