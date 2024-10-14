@@ -12,13 +12,13 @@ load_dotenv()
 API_ID = int(getenv("26162072"))
 API_HASH = getenv("ba25181c01b50d945748801b6c8b6ecc")
 # ------------------------------------------------------
-BOT_TOKEN = getenv("BOT_TOKEN")
+BOT_TOKEN = getenv("7462431031:AAHWvN-7LSmV9jYD1kmUKBkNA1e87b3V_R4")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","Rishu1286")
 
-OWNER2_ID = int(getenv("OWNER2_ID", 6632677860))
+OWNER2_ID = int(getenv("OWNER2_ID", 6717382350))
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "RishuXmusicXbot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "RebelGirl_Music_Bot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "SAPNA")
 # ---------------------------------------------------------
